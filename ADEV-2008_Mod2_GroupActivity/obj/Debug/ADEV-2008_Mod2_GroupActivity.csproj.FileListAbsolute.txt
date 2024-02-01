@@ -1,0 +1,21 @@
+C:\Users\Yugi1\source\repos\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.csproj.AssemblyReference.cache
+C:\Users\Yugi1\source\repos\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.csproj.CoreCompileInputs.cache
+C:\Users\Yugi1\source\repos\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.exe.config
+C:\Users\Yugi1\source\repos\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.exe
+C:\Users\Yugi1\source\repos\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.pdb
+C:\Users\Yugi1\source\repos\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.exe
+C:\Users\Yugi1\source\repos\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.pdb
+C:\Users\LomDa\Desktop\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.exe.config
+C:\Users\LomDa\Desktop\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.exe
+C:\Users\LomDa\Desktop\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.pdb
+C:\Users\LomDa\Desktop\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.csproj.AssemblyReference.cache
+C:\Users\LomDa\Desktop\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.csproj.CoreCompileInputs.cache
+C:\Users\LomDa\Desktop\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.exe
+C:\Users\LomDa\Desktop\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.pdb
+C:\Users\LomDa\Downloads\ADEV-2008_Mod2_GroupActivity (1)\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.exe.config
+C:\Users\LomDa\Downloads\ADEV-2008_Mod2_GroupActivity (1)\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.exe
+C:\Users\LomDa\Downloads\ADEV-2008_Mod2_GroupActivity (1)\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\bin\Debug\ADEV-2008_Mod2_GroupActivity.pdb
+C:\Users\LomDa\Downloads\ADEV-2008_Mod2_GroupActivity (1)\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.csproj.AssemblyReference.cache
+C:\Users\LomDa\Downloads\ADEV-2008_Mod2_GroupActivity (1)\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.csproj.CoreCompileInputs.cache
+C:\Users\LomDa\Downloads\ADEV-2008_Mod2_GroupActivity (1)\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.exe
+C:\Users\LomDa\Downloads\ADEV-2008_Mod2_GroupActivity (1)\ADEV-2008_Mod2_GroupActivity\ADEV-2008_Mod2_GroupActivity\obj\Debug\ADEV-2008_Mod2_GroupActivity.pdb
